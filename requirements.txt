@@ -1,0 +1,8 @@
+pandas
+pmdarima
+plotly
+nbformat>=4.2.0
+ipykernel
+ipywidgets
+pyarrow
+matplotlib
